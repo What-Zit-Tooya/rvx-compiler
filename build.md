@@ -1,7 +1,7 @@
 YouTube-Music (arm-v7a): 6.22.51  
 YouTube-Music (arm64-v8a): 6.22.51  
 YouTube: 18.37.36  
-Reddit: 2023.41.0  
+Reddit: 2023.41.1  
 
 Install [Vanced Microg](https://github.com/TeamVanced/VancedMicroG/releases) for non-root YouTube and YT Music  
 
