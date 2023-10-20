@@ -1,4 +1,5 @@
 YouTube-Music-RVX (arm64-v8a): 6.22.51  
+YouTube-RVX: 18.39.41  
 YouTube-Music-RVX (arm-v7a): 6.22.51  
 Reddit-RVX: 2023.41.1  
 
